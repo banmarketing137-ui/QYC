@@ -1,0 +1,6 @@
+{
+  "name": "Quảng Yên Centro",
+  "description": "Trang giới thiệu dự án BĐS Quảng Yên Centro với các phân mục Giới thiệu, Sản phẩm, Vị trí, Tiện ích, Bảng hàng & Tình trạng căn thời gian thực, Chính sách, Tiến độ, Pháp lý và bộ công cụ chỉnh sửa nội dung trực tiếp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
